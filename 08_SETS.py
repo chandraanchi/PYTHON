@@ -111,3 +111,12 @@ set.add()
 #     temp+=1
 # print(temp)
 # print(len(list))
+
+
+'''find lenth code
+'''
+l=[1,23,3,4,5,6]
+temp=0
+for i in l:
+    temp=temp+1
+print(temp)
